@@ -4,7 +4,7 @@
 I'm a final year student with a passion for software development and a keen interest in exploring new technologies.
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptarshi-biswas-701813202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rittima-biswas-6b0704216/)
 
 ---
 
@@ -14,11 +14,11 @@ I'm a final year student with a passion for software development and a keen inte
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saptarshi2060&theme=dark&hide_border=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rittima&theme=dark&hide_border=false&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saptarshi2060&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rittima&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi2060&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rittima&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -27,6 +27,6 @@ I'm a final year student with a passion for software development and a keen inte
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saptarshi2060&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=rittima&color=blue)
 
 <!-- Proudly created with ❤️ and GPRM (https://gprm.itsvg.in) -->
