@@ -26,6 +26,6 @@ I'm a final year student with a passion for software development and a keen inte
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=rittima&color=pink)
+![Profile Views](https://komarev.com/ghpvc/?username=rittima&color=blue)
 
 <!-- Proudly created with ❤️ and GPRM (https://gprm.itsvg.in) -->
